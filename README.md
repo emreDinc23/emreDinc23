@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Dinç</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate web developer from Turkey</h3>
 <a href="https://gifyu.com/image/SWnNn"><img src="https://s12.gifyu.com/images/SWnNn.gif" alt="SWnNn.gif" border="0" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emredinc23&label=Profile%20views&color=0e75b6&style=flat" alt="emredinc23" /> </p>
