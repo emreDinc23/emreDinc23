@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Emre Dinç</h1>
-<h3 align="center">A passionate web developer from Turkey</h3>
+<h3 align="center">A passionate .Net developer from Turkey</h3>
 <a href="https://gifyu.com/image/SWnNn"><img src="https://s12.gifyu.com/images/SWnNn.gif" alt="SWnNn.gif" border="0" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emredinc23&label=Profile%20views&color=0e75b6&style=flat" alt="emredinc23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **C# - Asp.Net - MVC5**
+- 🔭 I am currently working on **C# - Asp.Net - MVC5**.
 
-- 🌱 I’m currently learning **Asp.Net - MVC5 - C# - JS - HTML/CSS**
+- 🌱 I am currently learning **Asp.Net - MVC5 - C# - JS - HTML/CSS**
 
-- 👯 I’m looking to collaborate on **Bussines Otomation**
+- 👯 I want to collaborate on **.Net development**
 
-- 💬 Ask me about **SQL**
+- 💬 You can ask me questions about **.Net**
 
-- 📫 How to reach me **emre_2350@outlook.com**
+- 📫 How can you contact me **emre_2350@outlook.com**
 
-- ⚡ Fun fact **I am Funny**
+- Fun fact **I love playing computer games and basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
